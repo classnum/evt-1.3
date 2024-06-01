@@ -51,6 +51,8 @@
                 <div>
 
                     <div n="1" type="chapitre">
+                     <pb n="1" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-1.jpg"
+                    xml:id="liber_hynotheon_ms_adiv_5fb1_page-1"/>
                         <div n="1" type="section"><p>Au nom du Seigneur Jésus Christ. Ceci est le livre Hynothéon<note n="1" place="bottom">Ce nom « divin » est vraisemblablement
                             d’origine grecque et pourrait être traduit par « une seule divinité
                             (Henotheon) ». Dans le manuscrit R, il se retrouve aussi sous la forme
@@ -119,7 +121,8 @@ Ceci permet d’expliquer certaines erreurs de construction, et notamment le pas
 alors que la lune est croissante. Les noms des princes de cette altitude sont Pax, Alpharaym, Geongereon, Armon, Gænerion<note n="12" place="bottom">Les pouvoirs de cette altitude évoquent fortement ceux la deuxième altitude, 
 décrite dans la Cabale Divine : « Les princes de ce 2e ordre, à l’orient qui est appellé Carona, ou Corona, ont leur oppération le jour du dimanche, ils onts puissance sur toutes les aquisitions des biens et de les distribuer 
 comme il leurs plaist, de les transporter en d’autres mains et les donner aux hommes comme ils le juge à propos, de faire rentrer à chaqu’un son revenu et son argent, ... Le nom de ses anges sonts Alpharon, Ghéon, Ghéséron Armon Ghuérémon »</note>.</p></div>
-<div n="4" type="section"><p>Troisième altitude. On l’appelle Hermoy et elle exerce son pouvoir sur les amis, les frères, les proches et les voisins, 
+<div n="4" type="section"><pb n="2" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-2.jpg"
+                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-2"/><p>Troisième altitude. On l’appelle Hermoy et elle exerce son pouvoir sur les amis, les frères, les proches et les voisins, 
 et sur le mouvement de toutes les eaux, de la mer et des rivières, et sur le changement corporel de toutes choses de lieu à lieu, 
 et sur tout ce qui bouge<note n="13" place="bottom">Le Stagirite (Physique, III, 1) distinguait quatre types de mouvements : le mouvement local suivant la catégorie du « lieu », -ou mouvement dans l’espace-, l’altération selon la catégorie de la « qualité », 
 l’accroissement selon la « quantité », enfin la génération/corruption selon la « substance ». Ces mouvements diffèrent selon que l’on se situe dans le monde supralunaire ou sublunaire. Le monde surpralunaire est celui du ciel et des astres, où il n’y a ni génération, 
